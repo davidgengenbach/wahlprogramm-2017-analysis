@@ -1,0 +1,3 @@
+data/pdfs/*.pdf
+data/images/*.png
+.ipynb_checkpoints
