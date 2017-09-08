@@ -1,0 +1,7 @@
+gensim
+textract
+requests
+pandas
+wordcloud
+matplotlib
+jupyter
